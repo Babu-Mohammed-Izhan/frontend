@@ -16,5 +16,28 @@
 1. Basic Javascript
 2. DOM Manipulation
 
-## Web Tech Stacks:
+## Frontend Frameworks
+Angular (R)
+Vue (G)
+React (B)
 
+## Web Tech Stacks
+1. MongoDB (NoSQL)
+   , Express
+   , React
+   , NodeJS (MERN)
+
+2. Postgres (SQL)
+   , Express
+   , React
+   , NodeJS  (PERN)
+   
+3. Postgres (SQL)
+   , Express
+   , Angular
+   , NodeJS (PEAN)
+   
+4. MongoDB (NoSQL)
+   , Express
+   , Vue
+   , NodeJS (MEVN)

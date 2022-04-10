@@ -44,7 +44,7 @@ React (B)
    
 ## NodeJS and npm / npx
 
-## React
+# React
 
 ### JSX
 ### Hooks
@@ -55,3 +55,14 @@ React (B)
 ### Create a React Application boilerplate
 
 ` npx create-react-app <project-name> `
+
+## Intermediate topics
+
+### Typescript
+### NextJS
+### GraphQL
+
+### Mobile Development
+
+### React Native
+### Flutter

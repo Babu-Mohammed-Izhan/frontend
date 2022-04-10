@@ -20,6 +20,20 @@
 Angular (R)
 Vue (G)
 React (B)
+   
+## NodeJS and npm / npx
+
+# React
+
+### JSX
+### Hooks
+ 1. useState
+ 2. useEffect
+ 3. useRef
+
+### Create a React Application boilerplate
+
+` npx create-react-app <project-name> `
 
 ## Web Tech Stacks
 1. MongoDB (NoSQL)
@@ -41,20 +55,7 @@ React (B)
    , Express
    , Vue
    , NodeJS (MEVN)
-   
-## NodeJS and npm / npx
 
-# React
-
-### JSX
-### Hooks
- 1. useState
- 2. useEffect
- 3. useRef
-
-### Create a React Application boilerplate
-
-` npx create-react-app <project-name> `
 
 ## Intermediate topics
 

@@ -21,7 +21,9 @@ Angular (R)
 Vue (G)
 React (B)
    
-## NodeJS and npm / npx
+## NodeJS
+
+### npm (Node Package Manager)
 
 # React
 
@@ -36,22 +38,22 @@ React (B)
 ` npx create-react-app <project-name> `
 
 ## Web Tech Stacks
-1. MongoDB (NoSQL)
+1. MongoDB
    , Express
    , React
    , NodeJS (MERN)
 
-2. Postgres (SQL)
+2. Postgres
    , Express
    , React
    , NodeJS  (PERN)
    
-3. Postgres (SQL)
+3. Postgres
    , Express
    , Angular
    , NodeJS (PEAN)
    
-4. MongoDB (NoSQL)
+4. MongoDB
    , Express
    , Vue
    , NodeJS (MEVN)
@@ -61,7 +63,17 @@ React (B)
 
 ### Typescript
 ### NextJS
+### GatsbyJS
 ### GraphQL
+
+## Testing
+
+### Jest
+### Mocha
+### Chai
+### react-testing-library
+### cypress
+### enzyme
 
 ### Mobile Development
 

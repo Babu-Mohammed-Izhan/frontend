@@ -16,14 +16,12 @@
 1. Basic Javascript
 2. DOM Manipulation
 
+### Git
+
 ## Frontend Frameworks
 Angular (R)
 Vue (G)
 React (B)
-   
-## NodeJS
-
-### npm (Node Package Manager)
 
 # React
 
@@ -36,6 +34,20 @@ React (B)
 ### Create a React Application boilerplate
 
 ` npx create-react-app <project-name> `
+
+### State Management
+Redux
+
+## NodeJS
+
+### npm (Node Package Manager)
+### Express
+### ORMs
+
+## Database
+### MongoDB
+### Postgres
+### MySQL
 
 ## Web Tech Stacks
 1. MongoDB
